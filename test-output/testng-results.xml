@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-07-29T17:45:15 PDT" name="Default suite" finished-at="2024-07-29T17:45:15 PDT" duration-ms="125">
+    <groups>
+    </groups>
+    <test started-at="2024-07-29T17:45:15 PDT" name="Default test" finished-at="2024-07-29T17:45:15 PDT" duration-ms="125">
+      <class name="day26.AllAnnotations">
+        <test-method is-config="true" signature="bs()[pri:0, instance:day26.AllAnnotations@2a3b5b47]" started-at="2024-07-29T17:45:15 PDT" name="bs" finished-at="2024-07-29T17:45:15 PDT" duration-ms="24" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bs -->
+        <test-method is-config="true" signature="bt()[pri:0, instance:day26.AllAnnotations@2a3b5b47]" started-at="2024-07-29T17:45:15 PDT" name="bt" finished-at="2024-07-29T17:45:15 PDT" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bt -->
+        <test-method is-config="true" signature="bc()[pri:0, instance:day26.AllAnnotations@2a3b5b47]" started-at="2024-07-29T17:45:15 PDT" name="bc" finished-at="2024-07-29T17:45:15 PDT" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bc -->
+        <test-method is-config="true" signature="bf()[pri:0, instance:day26.AllAnnotations@2a3b5b47]" started-at="2024-07-29T17:45:15 PDT" name="bf" finished-at="2024-07-29T17:45:15 PDT" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bf -->
+        <test-method signature="tm1()[pri:1, instance:day26.AllAnnotations@2a3b5b47]" started-at="2024-07-29T17:45:15 PDT" name="tm1" finished-at="2024-07-29T17:45:15 PDT" duration-ms="16" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tm1 -->
+        <test-method is-config="true" signature="am()[pri:0, instance:day26.AllAnnotations@2a3b5b47]" started-at="2024-07-29T17:45:15 PDT" name="am" finished-at="2024-07-29T17:45:15 PDT" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- am -->
+        <test-method is-config="true" signature="bf()[pri:0, instance:day26.AllAnnotations@2a3b5b47]" started-at="2024-07-29T17:45:15 PDT" name="bf" finished-at="2024-07-29T17:45:15 PDT" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bf -->
+        <test-method signature="tm2()[pri:2, instance:day26.AllAnnotations@2a3b5b47]" started-at="2024-07-29T17:45:15 PDT" name="tm2" finished-at="2024-07-29T17:45:15 PDT" duration-ms="5" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tm2 -->
+        <test-method is-config="true" signature="am()[pri:0, instance:day26.AllAnnotations@2a3b5b47]" started-at="2024-07-29T17:45:15 PDT" name="am" finished-at="2024-07-29T17:45:15 PDT" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- am -->
+        <test-method is-config="true" signature="ac()[pri:0, instance:day26.AllAnnotations@2a3b5b47]" started-at="2024-07-29T17:45:15 PDT" name="ac" finished-at="2024-07-29T17:45:15 PDT" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ac -->
+        <test-method is-config="true" signature="at()[pri:0, instance:day26.AllAnnotations@2a3b5b47]" started-at="2024-07-29T17:45:15 PDT" name="at" finished-at="2024-07-29T17:45:15 PDT" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- at -->
+        <test-method is-config="true" signature="as()[pri:0, instance:day26.AllAnnotations@2a3b5b47]" started-at="2024-07-29T17:45:15 PDT" name="as" finished-at="2024-07-29T17:45:15 PDT" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- as -->
+      </class> <!-- day26.AllAnnotations -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
